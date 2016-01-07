@@ -12,18 +12,18 @@ How to Use
 In JMeter, you'll have to set some variables to reflect your Omniture Site Catalyst configuration:
 
 * Omniture Analytics Sample Traffic
-- suiteId
-- baseUrl
-- sProps, eVars and events (as per your suite setup)
+  * suiteId
+  * baseUrl
+  * sProps, eVars and events (as per your suite setup)
 
 * HTTP Request Defaults
-- Server Name
-- Port Number
-- Path
+  * Server Name
+  * Port Number
+  * Path
 
 * HTTP Headers (Optionally)
-- User-Agent
-- Accept
-- Accept-Language
+  * User-Agent
+  * Accept
+  * Accept-Language
 
 Then you can proceed with the test plan creation as usual. Sample test scenarios are provided.
